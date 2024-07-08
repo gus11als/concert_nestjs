@@ -26,9 +26,24 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+## env 예시
+```bash
+DB_HOST=
+DB_PORT=
+DB_USERNAME=
+DB_PASSWORD=
+DB_DATABASE= 
+BCRYPT_SALT_ROUNDS=
+JWT_SECRET=
+JWT_EXPIRATION=
+
+```
+
+
 ## Installation
 
 ```bash
+
 $ npm install
 ```
 
